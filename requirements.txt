@@ -13,6 +13,7 @@ jsmin
 
 # miscellaneous
 python-dotenv
+Flask-Login
 
 # documentation
 eralchemy
@@ -31,3 +32,7 @@ ipython
 
 # database migrations
 psycopg2
+
+# wtforms
+WTForms
+Flask-WTF
